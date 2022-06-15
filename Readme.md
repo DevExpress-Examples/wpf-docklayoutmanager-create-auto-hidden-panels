@@ -6,8 +6,7 @@
 
 # WPF Dock Layout Manager - Create Auto-Hidden Panels
 
-This example shows how to create auto-hidden panels in XAML.
-To create auto-hidden panels:
+This example creates the following auto-hidden panels in XAML.
 
 1. Add an [AutoHideGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.AutoHideGroup) to the [DockLayoutManager.AutoHideGroups](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockLayoutManager.AutoHideGroups) collection.
 
