@@ -9,9 +9,9 @@
 This example shows how to create auto-hidden panels in XAML.
 To create auto-hidden panels:
 
-1. Add an [AutoHideGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.AutoHideGroup) to the [DockLayoutManager.AutoHideGroups](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockLayoutManager.AutoHideGroups) collection. 
+1. Add an [AutoHideGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.AutoHideGroup) to the [DockLayoutManager.AutoHideGroups](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockLayoutManager.AutoHideGroups) collection.
 
-2. Add a [LayoutPanel](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutPanel) to the [AutoHideGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.AutoHideGroup).
+2. Add a [LayoutPanel](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutPanel) to the [AutoHideGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.AutoHideGroup).
 
 ![image](https://user-images.githubusercontent.com/12169834/173883950-bea5ecd6-8586-4e16-b565-3210d14bac36.png)
 
